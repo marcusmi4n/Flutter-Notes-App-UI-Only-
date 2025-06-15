@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__notes_app_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/home/grimian/Documents/OPP/notes_app/linux -B/home/grimian/Documents/OPP/notes_app/build/linux/x64/debug
+  command = /usr/bin/cmake --regenerate-during-build -S/home/grimian/Documents/OPP/Flutter-Notes-App-UI-Only-/linux -B/home/grimian/Documents/OPP/Flutter-Notes-App-UI-Only-/build/linux/x64/debug
   description = Re-running CMake...
   generator = 1
 

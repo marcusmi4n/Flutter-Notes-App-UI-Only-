@@ -1,8 +1,8 @@
-# Install script for directory: /home/grimian/Documents/OPP/notes_app/linux/runner
+# Install script for directory: /home/grimian/Documents/OPP/Flutter-Notes-App-UI-Only-/linux/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/grimian/Documents/OPP/notes_app/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/grimian/Documents/OPP/Flutter-Notes-App-UI-Only-/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
